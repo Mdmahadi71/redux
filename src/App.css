@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.main button{
+    width: 60px;
+    height: 40px;
+    color: aliceblue;
+    background-color: rgba(0, 147, 245, 0.961);
+    box-sizing: border-box;
+    border-style: none;
+    font-size: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    cursor: pointer;
+}
+.main button:hover{
+    background-color: rgb(255, 8, 131);
+    color: black;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+.nber,
+.bnr_heder h3{
+    font-size: 30px;
+}
+.bnr_heder{
+    text-align: center;
+    margin-top: 100px;
+}
+.bnr_heder{
+    background-color: aqua;
+    padding: 200px 0;
+}
